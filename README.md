@@ -5,8 +5,8 @@
 #### By **Jiwon Han and Vera Weikel**
 
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
-![LastCommit](https://img.shields.io/github/last-commit/jiwon-seattle/VendorOrderTracker.Solution)
-![Languages](https://img.shields.io/github/languages/top/jiwon-seattle/VendorOrderTracker.Solution)
+![LastCommit](https://img.shields.io/github/last-commit/jiwon-seattle/RomanNumeral)
+![Languages](https://img.shields.io/github/languages/top/jiwon-seattle/RomanNumeral)
 [![MIT license](https://img.shields.io/badge/License-MIT-orange.svg)](https://lbesson.mit-license.org/)
 
 ## Description
